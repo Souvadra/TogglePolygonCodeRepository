@@ -1,4 +1,4 @@
-# Operating principles of circular toggle polygons [Link:](https://iopscience.iop.org/article/10.1088/1478-3975/abef79 "link to article")
+# Operating principles of circular toggle polygons [Link](https://iopscience.iop.org/article/10.1088/1478-3975/abef79 "link to article")
 
 # Instruction to the end-user to replicate the results
 
